@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnnouncementsSystemClient/AnnouncementsSystemClient.iml" filepath="$PROJECT_DIR$/AnnouncementsSystemClient/AnnouncementsSystemClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnnouncementsSystemServer/AnnouncementsSystemServer.iml" filepath="$PROJECT_DIR$/AnnouncementsSystemServer/AnnouncementsSystemServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sistemas-distribuidos.iml" filepath="$PROJECT_DIR$/.idea/sistemas-distribuidos.iml" />
+    </modules>
+  </component>
+</project>
